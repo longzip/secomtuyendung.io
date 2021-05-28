@@ -79,8 +79,11 @@
                 răng), khám nội trú với chi phí 105 triệu/năm)
               </li>
               <li>
-                Địa điểm làm việc: Tp. Hà Nội, Dẹp Cảng hàng, không quốc tế Nội
-                Bài, Thang Long Industrial Park
+                Địa điểm làm việc: Siêu thị thời trang Uniqlo của Nhật là gồm
+                Toà nhà Aeon Long Biên, AEON Hà Đông, Toà nhà Vincom 29 Liễu
+                Giai, Toà Nhà Vincom số 2 Phạm Ngọc Thạch, Khu công nghiệp Nội
+                Bài, KCN Thăng long 1, KCN Sài Đồng long biên, KCN Đồng Văn 2 Hà
+                Nam.
               </li>
             </ul>
           </div>
