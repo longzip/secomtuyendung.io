@@ -26,7 +26,6 @@
           "
           href="/"
         >
-          <!--Icon from: http://www.potlabicons.com/ -->
           <svg
             class="h-8 fill-current inline"
             xmlns="http://www.w3.org/2000/svg"
@@ -113,14 +112,16 @@
                 py-2
                 px-4
               "
-              href="https://vn.vieclambaove.ga/tuyen-dung/"
-              >Tuyển dụng bảo vệ</a
+              target="_blank"
+              href="https://www.lambaove.ga/"
+              >Làm bảo vệ</a
             >
           </li>
         </ul>
         <a
           id="navAction"
-          href="https://vn.vieclambaove.ga/wordpress/wp-login.php?loginSocial=google"
+          target="_blank"
+          href="https://www.lambaove.ga/wordpress/wp-login.php?loginSocial=google&redirect=https%3A%2F%2Fwww.lambaove.ga%2F"
           class="
             mx-auto
             lg:mx-0

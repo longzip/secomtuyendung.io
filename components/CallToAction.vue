@@ -60,7 +60,8 @@
         nhất!
       </p>
       <a
-        href="https://vn.vieclambaove.ga/wordpress/wp-login.php?loginSocial=google"
+        target="_blank"
+        href="https://www.lambaove.ga/ung-tuyen/"
         class="
           mx-auto
           lg:mx-0

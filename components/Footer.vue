@@ -15,7 +15,7 @@
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="tel:0978333963"
+                href="https://zalo.me/0966570913"
                 class="
                   no-underline
                   hover:underline
@@ -27,19 +27,19 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="tel:0978333963"
+                href="https://www.lambaove.ga/zalo"
                 class="
                   no-underline
                   hover:underline
                   text-gray-800
                   hover:text-pink-500
                 "
-                >Chat Zalo</a
+                >Tham gia nhóm Zalo</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://m.me/tuyenbaovesecom"
+                href="https://m.me/lambaove.ga"
                 class="
                   no-underline
                   hover:underline
@@ -56,38 +56,26 @@
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://www.facebook.com/lambaove.ga"
                 class="
                   no-underline
                   hover:underline
                   text-gray-800
                   hover:text-pink-500
                 "
-                >Facebook</a
+                >Facebook Làm Bảo Vệ</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://www.youtube.com/channel/UCa99RcT8sTHFf8KbKumPbkw"
                 class="
                   no-underline
                   hover:underline
                   text-gray-800
                   hover:text-pink-500
                 "
-                >Youtube</a
-              >
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a
-                href="#"
-                class="
-                  no-underline
-                  hover:underline
-                  text-gray-800
-                  hover:text-pink-500
-                "
-                >Zalo</a
+                >Youtube Tuyển Bảo Vệ</a
               >
             </li>
           </ul>
@@ -109,7 +97,7 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://vn.vieclambaove.ga/huong-dan-nop-ho-so/"
+                href="https://blog.lambaove.ga/"
                 class="
                   no-underline
                   hover:underline
@@ -121,7 +109,7 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="tel: 0978333963"
+                href="tel:0978333963"
                 class="
                   no-underline
                   hover:underline
@@ -135,13 +123,10 @@
         </div>
       </div>
     </div>
-    <a href="https://vn.vieclambaove.ga" class="text-gray-500"
-      >Việc làm bảo vệ - vn.vieclambaove.ga</a
+    <a href="https://www.lambaove.ga" class="text-gray-500"
+      >Việc làm bảo vệ - lambaove.ga</a
     >
   </footer>
-  <!-- jQuery if you need it
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  -->
 </template>
 <script>
 export default {
@@ -150,7 +135,6 @@ export default {
     const header = document.getElementById('header')
     const navcontent = document.getElementById('nav-content')
     const navaction = document.getElementById('navAction')
-    const brandname = document.getElementById('brandname')
     const toToggle = document.querySelectorAll('.toggleColour')
 
     document.addEventListener('scroll', function () {
@@ -164,7 +148,7 @@ export default {
         navaction.classList.remove('text-gray-800')
         navaction.classList.add('text-white')
         // Use to switch toggleColour colours
-        for (var i = 0; i < toToggle.length; i++) {
+        for (let i = 0; i < toToggle.length; i++) {
           toToggle[i].classList.add('text-gray-800')
           toToggle[i].classList.remove('text-white')
         }
@@ -178,7 +162,7 @@ export default {
         navaction.classList.remove('text-white')
         navaction.classList.add('text-gray-800')
         // Use to switch toggleColour colours
-        for (var i = 0; i < toToggle.length; i++) {
+        for (let i = 0; i < toToggle.length; i++) {
           toToggle[i].classList.add('text-white')
           toToggle[i].classList.remove('text-gray-800')
         }
